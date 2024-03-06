@@ -48,4 +48,4 @@ SERVER:
 ![image](https://github.com/HARISHA2006/2b_SLIDING_WINDOW_PROTOCOL/assets/148843830/435329b0-86b2-4121-bb44-e472aea59fc0)
 
 ## RESULT
-Thus, python program to perform stop and wait protocol was successfully executed
+Thus, python program to perform IMPLEMENTATION OF SLIDING WINDOW PROTOCOL was successfully executed
